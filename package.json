@@ -1,0 +1,22 @@
+{
+  "name": "npm-repository",
+  "version": "1.0.0",
+  "description": "仓库合集",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/switers-wang/npm-repository.git"
+  },
+  "author": "switers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/switers-wang/npm-repository/issues"
+  },
+  "homepage": "https://github.com/switers-wang/npm-repository#readme",
+  "dependencies": {
+    "path": "^0.12.7"
+  }
+}
